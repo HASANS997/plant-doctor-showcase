@@ -1,3 +1,5 @@
+**English** | [العربية](README.ar.md) | [Türkçe](README.tr.md)
+
 # 🌿 Plant Doctor (Bitki Doktoru)
 
 **Deep-learning plant disease diagnosis and garden management for Android and Windows, working fully offline.**
